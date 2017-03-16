@@ -1,0 +1,38 @@
+﻿@model IList<ImageSharingWebRole.Models.SelectItemView>
+@{
+    ViewBag.Title = "Deactivate User";
+}
+
+<h2>@ViewBag.Title</h2>
+<p>
+    @ViewBag.Message
+</p>
+<br/>
+@{ Html.BeginForm("Deactivate", "Account", FormMethod.Post); }
+<fieldset>
+    @Html.AntiForgeryToken()
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Deactivate</th>
+                <th>UserName</th>
+            </tr>
+        </thead>
+        @for (var i = 0; i < Model.Count; i++)
+        {
+            <tr>
+                <td>
+                    @Html.HiddenFor(x => x[i].Id)
+                    @Html.CheckBoxFor(x => x[i].Active)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x[i].UserName)
+                </td>
+            </tr>
+        }
+    </table>
+    <br />
+    <input type="submit" value="Submit" />
+</fieldset>
+@{ Html.EndForm(); }

@@ -1,0 +1,813 @@
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\bin\Debug\ServiceDefinition.csdef
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ApplicationInsights.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.Core.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.Core.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ImageSharingWebRole.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ImageSharingWebRole.dll.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ImageSharingWebRole.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.Web.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.Web.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\MonAgentListener.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Mono.Math.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Mono.Math.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Owin.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\csc.exe
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\vbc.exe
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Spatial.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Spatial.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebGrease.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.Data.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.Data.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.WebData.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.WebData.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ApplicationInsights.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.AspNet.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.Core.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OAuth.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OpenId.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\EntityFramework.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\EntityFramework.SqlServer.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWebRole.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWebRole.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.DependencyCollector.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.Web.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.WindowsServer.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.ApplicationInsights.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Edm.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.OData.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Services.Client.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.Google.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.ServiceBus.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Web.Infrastructure.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\MonAgentListener.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Mono.Math.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Newtonsoft.Json.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Org.Mentalis.Security.Cryptography.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Owin.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\csc.exe
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\System.Collections.Immutable.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\System.Reflection.Metadata.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\vbc.exe
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Extensions.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Primitives.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Spatial.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.Mvc.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.Optimization.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.Razor.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Deployment.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Razor.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\WebGrease.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\WebMatrix.Data.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\WebMatrix.WebData.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\bin\Debug\ServiceDefinition.csdef
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.pdb
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ApplicationInsights.config
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.Core.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.Core.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ImageSharingWebRole.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ImageSharingWebRole.dll.config
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ImageSharingWebRole.pdb
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.Web.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.Web.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\MonAgentListener.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Mono.Math.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Mono.Math.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Owin.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\csc.exe
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\vbc.exe
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Spatial.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Spatial.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebGrease.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.Data.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.Data.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.WebData.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.WebData.xml
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.pdb
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ApplicationInsights.config
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.AspNet.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.Core.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OAuth.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OpenId.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\EntityFramework.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\EntityFramework.SqlServer.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWebRole.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWebRole.pdb
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll.config
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.pdb
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.DependencyCollector.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.Web.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.WindowsServer.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.ApplicationInsights.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Edm.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.OData.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Services.Client.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.Google.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.ServiceBus.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Web.Infrastructure.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\MonAgentListener.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Mono.Math.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Newtonsoft.Json.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Org.Mentalis.Security.Cryptography.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Owin.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\csc.exe
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\System.Collections.Immutable.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\System.Reflection.Metadata.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\vbc.exe
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe.config
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Extensions.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Primitives.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Spatial.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.Mvc.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.Optimization.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.Razor.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Deployment.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Razor.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\WebGrease.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\WebMatrix.Data.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\WebMatrix.WebData.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\bin\Debug\ServiceDefinition.csdef
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ApplicationInsights.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\de\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.Core.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.Core.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\EntityFramework.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\es\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ImageSharingWebRole.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ImageSharingWebRole.dll.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ImageSharingWebRole.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\it\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.Web.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.Web.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\MonAgentListener.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Mono.Math.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Mono.Math.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\Owin.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\csc.exe
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\vbc.exe
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Spatial.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Spatial.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebGrease.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.Data.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.Data.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.WebData.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\WebMatrix.WebData.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ApplicationInsights.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\de\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.AspNet.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.Core.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OAuth.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OpenId.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\EntityFramework.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\EntityFramework.SqlServer.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\es\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\fr\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWebRole.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWebRole.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\it\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ja\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ko\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.DependencyCollector.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.Web.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AI.WindowsServer.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.ApplicationInsights.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Edm.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.OData.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Services.Client.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.Google.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.ServiceBus.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Web.Infrastructure.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\MonAgentListener.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Mono.Math.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Newtonsoft.Json.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Org.Mentalis.Security.Cryptography.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\Owin.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\csc.exe
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\System.Collections.Immutable.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\System.Reflection.Metadata.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\vbc.exe
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\ru\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Extensions.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Primitives.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Spatial.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.Mvc.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.Optimization.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.Razor.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Deployment.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Razor.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\WebGrease.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\WebMatrix.Data.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\WebMatrix.WebData.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService\obj\Debug\ImageSharingWorkerRole\zh-Hant\System.Spatial.resources.dll

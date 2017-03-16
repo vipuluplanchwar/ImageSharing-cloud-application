@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ImageSharingWithCloudService", "ImageSharingWithCloudService\ImageSharingWithCloudService.ccproj", "{2DD61195-E2CB-45E9-B01F-B2A8B0CB0B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSharingWebRole", "ImageSharingWebRole\ImageSharingWebRole.csproj", "{3CBD2D3C-1E50-43CD-811E-8DCA5B689263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSharingWithCloudService.Tests", "ImageSharingWithCloudService.Tests\ImageSharingWithCloudService.Tests.csproj", "{EE0C5EAE-7FA7-4F78-BBBD-F8F823B2AF29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSharingWorkerRole", "ImageSharingWorkerRole\ImageSharingWorkerRole.csproj", "{D180DCAA-2A2B-40F2-A7F4-2AB109F3EA41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD61195-E2CB-45E9-B01F-B2A8B0CB0B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD61195-E2CB-45E9-B01F-B2A8B0CB0B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD61195-E2CB-45E9-B01F-B2A8B0CB0B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD61195-E2CB-45E9-B01F-B2A8B0CB0B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CBD2D3C-1E50-43CD-811E-8DCA5B689263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CBD2D3C-1E50-43CD-811E-8DCA5B689263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CBD2D3C-1E50-43CD-811E-8DCA5B689263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CBD2D3C-1E50-43CD-811E-8DCA5B689263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0C5EAE-7FA7-4F78-BBBD-F8F823B2AF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0C5EAE-7FA7-4F78-BBBD-F8F823B2AF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0C5EAE-7FA7-4F78-BBBD-F8F823B2AF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0C5EAE-7FA7-4F78-BBBD-F8F823B2AF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D180DCAA-2A2B-40F2-A7F4-2AB109F3EA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D180DCAA-2A2B-40F2-A7F4-2AB109F3EA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D180DCAA-2A2B-40F2-A7F4-2AB109F3EA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D180DCAA-2A2B-40F2-A7F4-2AB109F3EA41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

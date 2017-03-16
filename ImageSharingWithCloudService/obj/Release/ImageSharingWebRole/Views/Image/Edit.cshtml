@@ -1,0 +1,53 @@
+﻿@model ImageSharingWebRole.Models.ImageView
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@{ Html.BeginForm("Edit", "Image", FormMethod.Post); } 
+
+<p>@ViewBag.SuccessMessage</p>
+
+<fieldset>
+    <legend>Edit Image Information</legend>
+
+    @Html.AntiForgeryToken()
+
+    <p><img src="@Model.Uri" style="width:40%;height:50%"/></p>
+
+    @*@Html.HiddenFor(m => m.Id)
+
+    <p><img src="@Url.Content("~/Content/Images/img-" + @Model.Id + ".jpg")" style="width:40%;height:50%" /></p>*@
+
+    <p>Image id = @Model.Id</p>
+
+    <p>
+        Caption: @Html.TextBoxFor(m => m.Caption)
+        @Html.ValidationMessageFor(m => m.Caption)
+    </p>
+    <p>Select a tag: @Html.DropDownListFor(m => m.TagId, ViewBag.Tags as SelectList) </p>
+    <p>
+        Description:<br />
+        @Html.TextAreaFor(m => m.Description,
+                       @* "Enter description here.", *@
+                        5, 40, null)
+        @Html.ValidationMessageFor(m => m.Description)
+    </p>
+    <p>
+        Date taken: @Html.TextBoxFor(m => m.DateTaken)
+        @Html.ValidationMessageFor(m => m.DateTaken)
+    </p>
+    <p>
+        <input type="submit" value="Submit Changes" />
+    </p>
+</fieldset>
+
+<p>@ViewBag.ImageValidation</p>
+
+<p>@Html.ValidationSummary()</p>
+
+@{ Html.EndForm(); }
+
+

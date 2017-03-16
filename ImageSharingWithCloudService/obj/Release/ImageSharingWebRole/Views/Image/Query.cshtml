@@ -1,0 +1,25 @@
+﻿@model  ImageSharingWebRole.Models.Image
+
+@{
+    ViewBag.Title = "Find an Image";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@{ Html.BeginForm("Details", "Image", FormMethod.Get); }
+
+<fieldset>
+    <legend>Enter Image Information</legend>
+    <p>
+        Image id: @Html.TextBox("Id")
+        @Html.ValidationMessage("Id")
+    </p>
+    <p>
+        <input type="submit" value="Query" />
+    </p>
+</fieldset>
+
+<p>@ViewBag.Message</p>
+
+@{ Html.EndForm(); }
+

@@ -1,0 +1,55 @@
+﻿@model ImageSharingWebRole.Models.ImageView
+
+@{
+    ViewBag.Title = "Delete Image";
+}
+
+<h2>Delete</h2>
+
+@{ Html.BeginForm("Delete", "Image", FormMethod.Post);}
+
+<fieldset>
+
+    @Html.AntiForgeryToken()
+
+    <legend>Delete Image Information</legend>
+
+    @*
+    @Html.HiddenFor(m => m.Id)
+    *@
+
+   
+    <p><img src="@Model.Uri" style="width:40%;height:50%"/></p>
+
+    <p>Image id: @Model.Id</p>
+
+    <p>Tag: @Model.TagName</p>
+
+    <p>Caption: @Model.Caption</p>
+
+    <p>Description: <br /> @Model.Description</p>
+
+    <p>DateTaken: @Model.DateTaken.ToShortDateString()</p>
+
+    <p>Uploader: @Model.UserId</p>
+
+    <p>
+        <input type="submit" value="Confirm Delete" />
+    </p>
+
+</fieldset>
+
+<p>@ViewBag.Message</p>
+<p>@Html.ValidationSummary()</p>
+
+@{ Html.EndForm(); }
+
+
+
+
+
+
+
+
+
+

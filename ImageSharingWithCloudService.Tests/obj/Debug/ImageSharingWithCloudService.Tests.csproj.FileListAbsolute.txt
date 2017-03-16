@@ -1,0 +1,322 @@
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWithCloudService.Tests.dll.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWithCloudService.Tests.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWithCloudService.Tests.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\EntityFramework.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWebRole.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Spatial.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebMatrix.Data.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebMatrix.WebData.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Owin.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebGrease.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WindowsAzureTelemetryEvents.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Mono.Math.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WindowsAzureEventSource.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWebRole.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\EntityFramework.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Spatial.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebMatrix.Data.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebMatrix.WebData.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Mono.Math.xml
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\obj\Debug\ImageSharingWithCloudService.Tests.csproj.App.config
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\obj\Debug\ImageSharingWithCloudService.Tests.csprojResolveAssemblyReference.cache
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\obj\Debug\ImageSharingWithCloudService.Tests.dll
+C:\Users\gaura\Documents\Visual Studio 2015\Projects\CS526\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\obj\Debug\ImageSharingWithCloudService.Tests.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWithCloudService.Tests.dll.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWithCloudService.Tests.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWithCloudService.Tests.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\EntityFramework.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWebRole.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Spatial.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebMatrix.Data.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebMatrix.WebData.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Owin.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebGrease.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WindowsAzureTelemetryEvents.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Mono.Math.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WindowsAzureEventSource.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ImageSharingWebRole.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\EntityFramework.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Spatial.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebMatrix.Data.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\WebMatrix.WebData.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Mono.Math.xml
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\obj\Debug\ImageSharingWithCloudService.Tests.csproj.App.config
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\obj\Debug\ImageSharingWithCloudService.Tests.csprojResolveAssemblyReference.cache
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\obj\Debug\ImageSharingWithCloudService.Tests.dll
+C:\Users\gaura\Desktop\Vipul\ImageSharingWithCloudService\ImageSharingWithCloudService.Tests\obj\Debug\ImageSharingWithCloudService.Tests.pdb
