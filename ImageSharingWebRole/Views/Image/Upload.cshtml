@@ -1,0 +1,44 @@
+﻿@model ImageSharingWebRole.Models.ImageView
+@{
+    ViewBag.Title = "Upload an Image";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@{ Html.BeginForm("Upload", "Image", FormMethod.Post,
+                                               new { enctype = "multipart/form-data" }); }
+<p>@ViewBag.SuccessMessage</p>
+
+<fieldset>
+    @Html.AntiForgeryToken()
+    <legend>Enter Image Information</legend>
+    <p>
+        Caption: @Html.TextBoxFor(m => m.Caption)
+        @Html.ValidationMessageFor(m => m.Caption)
+    </p>
+    <p>
+        Select a Tag : @Html.DropDownListFor(m => m.TagId, ViewBag.Tags as SelectList)
+    </p>
+    <p>
+        Description:<br />
+        @Html.TextArea("Description",
+                        "Enter description here", 5, 50, null)
+        @Html.ValidationMessage("Description")
+    </p>
+    <p>
+        Date Taken: @Html.TextBox("DateTaken")
+        @Html.ValidationMessage("DateTaken")
+    </p>
+    <p>
+        <input type="file" name="imagefile" accept=".jpg" ,accept=".jpeg" style="width:60%" />
+    </p>
+    <p>
+        <input type="submit" value="Upload" />
+    </p>
+</fieldset>
+
+<p>@ViewBag.ImageValidation</p>
+
+<p>@Html.ValidationSummary()</p>
+
+@{ Html.EndForm(); }

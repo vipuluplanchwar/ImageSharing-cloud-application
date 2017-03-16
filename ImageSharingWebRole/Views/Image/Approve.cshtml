@@ -1,0 +1,58 @@
+﻿@model IList<ImageSharingWebRole.Models.SelectImageView>
+@{
+    ViewBag.Title = "Approve Images";
+}
+@section scripts
+{
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(".checkApproved").change(function () {
+            if (this.checked) {
+                this.parentElement.parentElement.cells['1'].childNodes['1'].checked = false;
+            }
+        });
+
+        $(".checkDelete").change(function () {
+            if (this.checked) {
+                this.parentElement.parentElement.cells['0'].childNodes['3'].checked = false;
+            }
+        });
+    </script>
+}
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @ViewBag.SuccessMessage
+</p>
+<br />
+@{ Html.BeginForm("Approve", "Image", FormMethod.Post); }
+<fieldset>
+    @Html.AntiForgeryToken()
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Approve</th>
+                <th>Delete</th>
+                <th>Caption</th>
+            </tr>
+        </thead>
+        @for (var i = 0; i < Model.Count; i++)
+        {
+            <tr>
+                <td>
+                    @Html.HiddenFor(x => x[i].Id)
+                    @Html.CheckBoxFor(x => x[i].Approved, new {@class= "checkApproved"})
+                </td>
+                <td>
+                    @Html.CheckBoxFor(x => x[i].Delete, new { @class = "checkDelete" })
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x[i].Caption)
+                </td>
+            </tr>
+        }
+    </table>
+    <br />
+    <input type="submit" value="Submit" />
+</fieldset>
+@{ Html.EndForm(); }

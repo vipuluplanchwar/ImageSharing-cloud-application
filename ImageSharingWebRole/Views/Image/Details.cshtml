@@ -1,0 +1,33 @@
+﻿@model  ImageSharingWebRole.Models.ImageView
+
+@{
+    ViewBag.Title = "Image Details";
+}
+
+<h2>@ViewBag.Title</h2>
+@Html.AntiForgeryToken()
+
+@if (Model != null)
+{
+
+<p><img src="@Model.Uri" style="width:40%;height:50%"/></p>
+
+@*
+    <p>Image id: @Model.Id</p>
+*@
+    <p>Tag: @Model.TagName</p>
+
+    <p>Caption: @Model.Caption</p>
+
+    <p>Description: <br /> @Model.Description</p>
+
+    <p>DateTaken: @Model.DateTaken.ToShortDateString()</p>
+
+    <p>Uploader: @Model.UserId</p>
+    }
+else
+{
+    <p>No Image found.</p>
+}
+
+

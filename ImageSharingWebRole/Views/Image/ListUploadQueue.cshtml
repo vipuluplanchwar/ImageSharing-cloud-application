@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ImageSharingWebRole.Models.ValidationInfo>
+@{
+    ViewBag.Title = "Upload Queue";
+}
+
+<h2>@ViewBag.Title</h2>
+@{ Html.BeginForm("ClearQueue", "Image", FormMethod.Post); } 
+<fieldset>
+    @Html.AntiForgeryToken()
+    <p style="font-weight:bold;color:green">@ViewBag.SuccessMessage</p>
+    @if (Model != null)
+    {
+        if (Model.Count() > 0)
+        {
+            <table style="border-style:solid" border="1">
+                <tr>
+                    <th>ImageCaption</th>
+                    <th>IsValidated</th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ImageCaption</td>
+                        <td>@item.isValidated</td>
+                    </tr>
+                }
+            </table>
+            <br />
+            <input type="submit" value="Clear" />
+        }
+        else
+        {
+            <p>No messages found.</p>
+        }
+    }
+    else
+    {
+        <p>No messages found.</p>
+    }
+    
+</fieldset>
+@{ Html.EndForm(); }

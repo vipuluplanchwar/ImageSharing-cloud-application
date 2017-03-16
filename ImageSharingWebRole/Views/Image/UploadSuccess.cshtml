@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Upload Success";
+}
+ 
+@model ImageSharingWebRole.Models.Image
+
+<h2>@ViewBag.Title</h2>
+
+<p>Image Id: @Model.ID</p>
+<p>Caption: @Model.Caption</p>
+<p>Description: <br/>@Model.Description</p>
+<p>Date Taken: @Model.DateTaken.ToShortDateString()</p>
+<p>Uploader: @Model.UserId</p>
